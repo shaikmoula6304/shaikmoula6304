@@ -1,16 +1,58 @@
 ## Hi there 👋
+# 👋 Hi, I'm Shaik Moulali
 
-<!--
-**shaikmoula6304/shaikmoula6304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student | 💻 Full Stack Developer | 🤖 AI Enthusiast
+🚀 Building AI-powered applications & real-world IoT systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* Aspiring Software Developer & Tester
+* Strong in APIs, Web Development & AI-based systems
+* Experience in IoT & Embedded Systems
+
+---
+
+## 🧠 Skills
+
+* 💻 Programming: Python
+* 🌐 Web: HTML, CSS, Node.js, Flask, Django
+* 🔗 APIs: REST APIs, Postman
+* 🗄️ Database: MongoDB / MySQL
+* ⚙️ Tools: Git, GitHub, Selenium
+* 🔌 Embedded: Arduino, PCB Testing
+
+---
+
+## 🚀 Projects
+
+### 🧠 AI Resume Builder & ATS Optimizer
+
+* AI-based resume scoring & suggestions
+* Backend APIs + authentication system
+
+### 📊 AI Mock Test Platform
+
+* Topic-wise test system (Aptitude, Reasoning)
+* AI feedback & performance analysis
+
+### 🪖 Smart Helmet (IoT Project)
+
+* Gas detection + temperature monitoring
+* GPS tracking for worker safety
+
+---
+
+## 🏆 Achievements
+
+* 🥉 3rd Prize – State Level Project Expo (2025)
+* 🧠 National Hackathon Participant – VIT Chennai
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [Your Link]
+* Email: [shaikmoula6304@gmail.com](mailto:shaikmoula6304@gmail.com)
+
