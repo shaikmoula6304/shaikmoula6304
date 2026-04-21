@@ -53,6 +53,6 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your Link]
-* Email: [shaikmoula6304@gmail.com](mailto:shaikmoula6304@gmail.com)
-
+* LinkedIn:https://www.linkedin.com/in/shaikmoula/
+* Email: shaikmoula6304@gmail.com](mailto:shaikmoula6304@gmail.com
+* Mobile No:6304996931
